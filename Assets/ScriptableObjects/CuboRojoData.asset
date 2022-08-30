@@ -12,4 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e9c0303e724f5c4b8fe4f69e8552a96, type: 3}
   m_Name: CuboRojoData
   m_EditorClassIdentifier: 
-  dialoguelines: []
+  dialoguelines:
+  - linea 1
+  - linea 2
+  - linea 3
